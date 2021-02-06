@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FunBlock.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OldHosts" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NewHosts" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1 facebook.com
+127.0.0.1 twitter.com
+127.0.0.1 weblogy.cz
+127.0.0.1 badoo.com
+127.0.0.1 youtube.com</Value>
+    </Setting>
+    <Setting Name="Changed" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
